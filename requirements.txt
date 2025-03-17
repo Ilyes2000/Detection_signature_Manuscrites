@@ -1,0 +1,37 @@
+ultralytics==8.3.55
+onnxruntime==1.20.1
+opencv-python==4.10.0.84
+roboflow==1.1.50
+tqdm==4.67.1
+gradio==5.12.0
+tritonclient[all]==2.53.0
+python-dotenv==1.0.1
+google-cloud-storage==2.19.0
+matplotlib==3.10.0
+
+
+# -- Traitement d'images et YOLO --
+numpy==1.23.5
+opencv-python==4.6.0.66
+pillow==9.4.0
+ultralytics==8.0.85
+
+# -- PDF et signature électronique --
+pdf2image==1.16.3
+pyhanko==0.14.0
+cryptography==39.0.1
+reportlab==3.6.13
+
+
+
+
+# Gradio
+gradio==3.24.1
+# ou Streamlit (si vous préférez)
+streamlit==1.19.0
+
+pymupdf==1.20.2
+
+
+altair==4.2.2
+pandas==1.5.2
